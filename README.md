@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Data science, AI.
+- 🌱 I’m currently learning Data science, Data analysis and AI.
 - 📫 How to reach me: gusgml9955@gmail.com
 - 📚 I'm majoring in Library information science and Data science.
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
