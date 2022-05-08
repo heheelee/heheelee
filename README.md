@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Hyunhee Lee a.k.a hehee
-- 🌱 I’m currently learning Data science, Data analysis and AI.
+- 🌱 I’m currently learning Data science, Data analysis and AI(ML, DL).
 - 📫 How to reach me: gusgml9955@gmail.com
 - 📚 I'm majoring in Library information science and Data science.
 
